@@ -1,0 +1,27 @@
+.thumb {
+    background-color: #3e3e3e;
+    background-image: none;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    width: 150px;
+    height: 150px;
+} 
+.thumb2 {
+    background-color: #3e3e3e;
+    background-image: none;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    width: 100px;
+    height: 100px;
+} 
+.thumb3 {
+    background-color: #3e3e3e;
+    background-image: none;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    width: 300px;
+    height: 100px;
+} 
